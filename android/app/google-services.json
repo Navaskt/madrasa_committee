@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131637442167",
+    "project_id": "madrasa-committee-flutter",
+    "storage_bucket": "madrasa-committee-flutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131637442167:android:bcb925b2a4293ae6a9f872",
+        "android_client_info": {
+          "package_name": "com.example.madrasa_committee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz_aNs_A17ncFeGqtUWumU7L4bZW512so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

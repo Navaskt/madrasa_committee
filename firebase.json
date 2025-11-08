@@ -1,0 +1,30 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "madrasa-committee-flutter",
+                    "appId": "1:131637442167:android:bcb925b2a4293ae6a9f872",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "ios": {
+                "default": {
+                    "projectId": "madrasa-committee-flutter",
+                    "appId": "1:131637442167:ios:65d1bedf347e9b6fa9f872",
+                    "uploadDebugSymbols": false,
+                    "fileOutput": "ios/Runner/GoogleService-Info.plist"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "madrasa-committee-flutter",
+                    "configurations": {
+                        "android": "1:131637442167:android:bcb925b2a4293ae6a9f872",
+                        "ios": "1:131637442167:ios:65d1bedf347e9b6fa9f872"
+                    }
+                }
+            }
+        }
+    }
+}
